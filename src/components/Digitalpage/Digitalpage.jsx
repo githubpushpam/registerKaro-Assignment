@@ -1,5 +1,5 @@
 import React from 'react'
-import './DigitalPage.css'
+import './Digitalpage.css'
 import digitalImg1 from "../../assets/digitalimage1.png"
 import arrow from "../../assets/arrow.png"
 import digitalImg2 from "../../assets/digitalimg2.png"
