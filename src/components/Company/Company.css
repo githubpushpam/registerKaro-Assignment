@@ -1,0 +1,21 @@
+.company{
+    width: Fixed (1,440px)px;
+height: Hug (176px)px;
+top: 8088px;
+padding: 64px 128px 64px 128px;
+gap: 32px;
+border-radius: 20px 0px 0px 0px;
+display: flex;
+align-items: center;
+justify-content: center;
+
+}
+.company-img{
+    height: 40px;
+}
+.webflow{
+    height: 20px;
+}
+.zoom{
+    height: 20px;
+}

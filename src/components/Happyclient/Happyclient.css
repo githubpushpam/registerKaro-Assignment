@@ -1,0 +1,72 @@
+.happyclient-main {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.happyclient-main-head {
+    font-size: 30px;
+    font-weight: 800;
+    align-self: center;
+    color: rgb(42, 42, 42);
+}
+
+.happyclient-main-header {
+    font-size: 16px;
+    display: flex;
+    color: rgb(113, 113, 113);
+    justify-content: center;
+
+}
+
+#happyclient-main-img {
+    margin-top: 20px;
+    width: 1492px;
+    height: 350px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.happyclient-feature {
+    display: flex;
+    width: 1440px;
+    height: 154px;
+    justify-content: center;
+    gap: 20px;
+    background: #FFA229;
+    align-items: center;
+    margin-top: 30px;
+}
+.happyclient-feature-maindiv{
+    display: flex;
+    margin-right: 20px;
+    gap: 10px;
+}
+.divcolor1{
+    background: #EB5757;
+    padding: 10px;
+    border-radius: 50%;
+
+}
+.divcolor2{
+  background-color:rgb(22, 106, 22);
+  padding: 10px;
+  border-radius: 50%;
+
+}
+.divcolor3{
+    background-color: rgb(225, 163, 47);
+    padding: 10px;
+    border-radius: 50%;
+}
+.divcolor4{
+    background-color: rgb(69, 60, 69);
+    padding: 10px;
+    border-radius: 50%;
+}
+.happyclient-feature-maindiv-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

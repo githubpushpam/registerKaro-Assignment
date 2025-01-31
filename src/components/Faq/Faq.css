@@ -1,0 +1,47 @@
+.Faq-main-div {
+    width: 1341px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.Faq-header1 {
+    color: #EB8D15;
+    font-size: 16px;
+    margin-bottom: 10px;
+
+}
+
+.Faq-header2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38.4px;
+    letter-spacing: 0.1599999964237213px;
+    text-align: center;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    margin-bottom: 10px;
+}
+.question-div-ptag{
+    font-size: 16px;
+}
+
+.question-div {
+    width: 1000px;
+    height: 70px;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 1px 0px 1px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-between;
+    background: #FFFFFF;
+    border-width: 1px, 1px, 0px, 1px;
+    border-style: solid;
+    border-color: #00000020;
+    padding: 20px 30px;
+}

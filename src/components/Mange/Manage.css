@@ -1,0 +1,41 @@
+.manage{
+    width: 1440px;
+height: 491px;
+background: #1C4670;
+display: flex;
+justify-content: center;
+align-items: center;
+gap: 20px;
+
+}
+.manage-left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.manage-left-header{
+    font-size: 26px;
+    font-weight: 800;
+    color: aliceblue;
+}
+.manage-left-ptag{
+    color: aliceblue;
+    font-size: 16px;
+}
+.manage-left-ptag2{
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.manage-right-img1{
+   width: 400px;
+   height: 600px;
+}
+.manage-right-img2{
+    width: 400px;
+    height: 800px;
+    margin-top: 60px;
+    padding-top: 50px;
+}
+
