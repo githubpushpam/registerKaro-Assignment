@@ -7,7 +7,7 @@ import digitalImg4 from "../../assets/digitalimg4.png"
 import digitalImg5 from "../../assets/digitalimg5.png"
 import digitalImg6 from "../../assets/digitalimg6.png"
 
-const DigitalPage = () => {
+const Digitalpage = () => {
     return (
         <div>
             <div className='digital'>
@@ -120,4 +120,4 @@ const DigitalPage = () => {
     )
 }
 
-export default DigitalPage
+export default Digitalpage
